@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_practice/static/css/main.eb4c0b72.chunk.css",
+    "main.js": "/react_practice/static/js/main.dabe41a9.chunk.js",
+    "main.js.map": "/react_practice/static/js/main.dabe41a9.chunk.js.map",
+    "runtime-main.js": "/react_practice/static/js/runtime-main.c87b5207.js",
+    "runtime-main.js.map": "/react_practice/static/js/runtime-main.c87b5207.js.map",
+    "static/js/2.458ea341.chunk.js": "/react_practice/static/js/2.458ea341.chunk.js",
+    "static/js/2.458ea341.chunk.js.map": "/react_practice/static/js/2.458ea341.chunk.js.map",
+    "index.html": "/react_practice/index.html",
+    "precache-manifest.e8e21e81c683ac1531e2179611afb11b.js": "/react_practice/precache-manifest.e8e21e81c683ac1531e2179611afb11b.js",
+    "service-worker.js": "/react_practice/service-worker.js",
+    "static/css/main.eb4c0b72.chunk.css.map": "/react_practice/static/css/main.eb4c0b72.chunk.css.map",
+    "static/js/2.458ea341.chunk.js.LICENSE.txt": "/react_practice/static/js/2.458ea341.chunk.js.LICENSE.txt",
+    "static/media/bkground.jpg": "/react_practice/static/media/bkground.21fa2687.jpg",
+    "static/media/cover.jpg": "/react_practice/static/media/cover.1af616d2.jpg",
+    "static/media/p1.jpg": "/react_practice/static/media/p1.357ab4a8.jpg",
+    "static/media/p2.jpg": "/react_practice/static/media/p2.c800bef2.jpg",
+    "static/media/p3.jpg": "/react_practice/static/media/p3.79b22360.jpg",
+    "static/media/p4.jpg": "/react_practice/static/media/p4.fbc918b6.jpg",
+    "static/media/p5.jpg": "/react_practice/static/media/p5.41fb5202.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c87b5207.js",
+    "static/js/2.458ea341.chunk.js",
+    "static/css/main.eb4c0b72.chunk.css",
+    "static/js/main.dabe41a9.chunk.js"
+  ]
+}
