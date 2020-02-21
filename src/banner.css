@@ -1,0 +1,49 @@
+.banner {
+    background-color: slategray;
+}
+.container {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    justify-content: center;
+    object-fit: cover;
+    box-sizing: border-box;
+    
+}
+.bannerPic {
+    min-width: 80%;
+    height: 250%;
+}
+.titleContainer {
+    display: flex;
+    width: 100%;
+    color: white;
+
+}
+.title {
+    font-size: 50px;
+    margin: 0px;
+    margin-left: 50px;
+    width: 45%;
+    justify-self: left;
+    
+}
+.author {
+    font-size: 40px;
+    justify-self: right;
+    text-align: right;
+    margin: 0;
+    margin-right: 20px;
+    width: 45%;
+}
+.buy {
+    font-size: 25px;
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+
