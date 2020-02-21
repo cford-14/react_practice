@@ -1,4 +1,6 @@
 import React from 'react';
+import { HashRouter, Route, Link } from "react-router-dom";
+
 import './App.css';
 import Banner from './Banner';
 import { Button } from './Button';
@@ -43,15 +45,18 @@ class App extends React.Component {
   }
   render() {
     return ( //add pages under banner
-      <div className="App">
-        <Banner />
-        <div className='picContainer'>
-          <PageImage className='pic' src={this.state.src} />
+      <HashRouter basename='/'>
+        <div className="App">
+          <Banner />
+          <div className='picContainer'>
+            <PageImage className='pic' src={this.state.src} />
+          </div>
+          <div className='buttonWrap'>
+            <Button choosePage={this.choosePage} />
+          </div>
         </div>
-        <div className='buttonWrap'>
-          <Button choosePage={this.choosePage} />
-        </div>
-      </div>
+      </HashRouter>
+      
     );
   }
 }
